@@ -33,3 +33,5 @@ Hopefully, this has demonstrated how simple it is to make a nice looking blog wi
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My article got published in CSS tricks 💃😃<a href="https://t.co/66gxwGpuIx">https://t.co/66gxwGpuIx</a><a href="[https://twitter.com/css?ref_src=twsrc%5Etfw](https://twitter.com/css?ref_src=twsrc%5Etfw "https://twitter.com/css?ref_src=twsrc%5Etfw")">@css</a></p>— Trapti Rahangdale (@imtraptir) <a href="[https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw](https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw "https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw")">September 30, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 ![](/images/hello-2.svg)
+
+![](/images/hello-2.svg)
