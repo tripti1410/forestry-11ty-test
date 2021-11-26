@@ -18,9 +18,9 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
@@ -28,5 +28,6 @@ How about an ordered list of stuff:
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
 
-
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My article got published in CSS tricks 💃😃<a href="https://t.co/66gxwGpuIx">https://t.co/66gxwGpuIx</a><a href="[https://twitter.com/css?ref_src=twsrc%5Etfw](https://twitter.com/css?ref_src=twsrc%5Etfw "https://twitter.com/css?ref_src=twsrc%5Etfw")">@css</a></p>&mdash; Trapti Rahangdale (@imtraptir) <a href="[https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw](https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw "https://twitter.com/imtraptir/status/1311354515900129287?ref_src=twsrc%5Etfw")">September 30, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
