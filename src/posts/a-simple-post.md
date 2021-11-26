@@ -34,4 +34,4 @@ Hopefully, this has demonstrated how simple it is to make a nice looking blog wi
 
 ![](/images/hello-2.svg)
 
-![](/images/hello-2.svg)![](/images/hello-2.svg)
+![](/images/hello-2.svg)![](/images/hello-2.svg)![](/images/12527.jpg)
